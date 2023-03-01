@@ -20,8 +20,8 @@ import android.widget.TextView;
 import java.util.ArrayList;
 import java.util.Random;
 
-//TODO find out how to pause app when user exits
-//TODO add notifications that notify the user every once in a while to make some math
+//TODO find out how to pause app when user exits.
+//TODO add notifications that notify the user every once in a while to make some math.
 
 public class MainActivity extends AppCompatActivity {
     ArrayList <Integer> answers = new ArrayList<Integer>();
