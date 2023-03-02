@@ -6,6 +6,12 @@ addition of numbers to multiplication). Furthermore, using shared
 preferences, the app remembers which choice the user has made
 regarding the difficulty.
 
+This is one of my first apps. What i learned during development:
+- how to use SharedPreferences class to store the preffered difficulty in the game
+- how to use the MediaPlayer class to play sounds during the end game
+- how to set a timer that plays a ticktock sound that starts when there are <5 seconds remaining in the game
+- how to implement different answers using the Random class
+
 Start page:
 
 ![VideoCapture_20230301-221152](https://user-images.githubusercontent.com/81863134/222256743-fa52e3bb-210c-4836-b853-f5c2e288513c.jpg)
