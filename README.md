@@ -1,16 +1,11 @@
 # Brain-Trainer
-The Brain Trainer Game uses math to train various parts of the
-brain when it comes to fast thinking. Using intents and a simple
-switch the user can change the difficulty of the game (From simple
-addition of numbers to multiplication). Furthermore, using shared
-preferences, the app remembers which choice the user has made
-regarding the difficulty.
+The Java Android app is designed to help the user train their brain using math. The app has two difficulty levels, addition and multiplication, which the user can select from the settings page using a switch. The app stores the user's preferred difficulty level on the local device using SharedPreferences. The app presents random math problems to the user, and they have to solve them within a limited time frame. If the user answers the questions correctly, they receive points, and the app keeps track of their score.
+When the game is about to end, the app makes a ticking noise to indicate that the game is almost over. The app also uses the Random class to present different answer choices to the user. The user can select an answer by clicking on the corresponding button.
 
-This is one of my first apps. What i learned during development:
-- how to use SharedPreferences class to store the preffered difficulty in the game
-- how to use the MediaPlayer class to play sounds during the end game
-- how to set a timer that plays a ticktock sound that starts when there are <5 seconds remaining in the game
-- how to implement different answers using the Random class
+What I learned during development:
+
+- The first thing I learned was how to use SharedPreferences to store user preferences locally on the device. This allowed me to save the user's preferred difficulty level so that they wouldn't have to set it every time they used the app.
+- The second thing I learned was how to use the Random class to generate random numbers for the math problems presented to the user. This allowed the app to present different problems to the user each time they played, keeping the game interesting and challenging.
 
 Start page:
 
@@ -27,6 +22,3 @@ Game:
 End game:
 
 ![334409637_913766179760735_7784273638262060137_n](https://user-images.githubusercontent.com/81863134/222256775-c6abcb87-3896-4608-88d0-907cb6b86302.jpg)
-
-Future commits:
--notify user to play the game again to exercise their math skills
