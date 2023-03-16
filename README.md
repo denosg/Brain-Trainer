@@ -7,18 +7,4 @@ What I learned during development:
 - The first thing I learned was how to use SharedPreferences to store user preferences locally on the device. This allowed me to save the user's preferred difficulty level so that they wouldn't have to set it every time they used the app.
 - The second thing I learned was how to use the Random class to generate random numbers for the math problems presented to the user. This allowed the app to present different problems to the user each time they played, keeping the game interesting and challenging.
 
-Start page:
-
-![VideoCapture_20230301-221152](https://user-images.githubusercontent.com/81863134/222256743-fa52e3bb-210c-4836-b853-f5c2e288513c.jpg)
-
-Settings page: 
-
-![VideoCapture_20230301-221138](https://user-images.githubusercontent.com/81863134/222256760-00f1aaa0-bbff-4818-b39e-2aeaca3196dc.jpg)
-
-Game:
-
-![VideoCapture_20230301-221144](https://user-images.githubusercontent.com/81863134/222256772-31d1b899-b510-46c4-a242-53d7a1971616.jpg)
-
-End game:
-
-![334409637_913766179760735_7784273638262060137_n](https://user-images.githubusercontent.com/81863134/222256775-c6abcb87-3896-4608-88d0-907cb6b86302.jpg)
+<img src="https://user-images.githubusercontent.com/81863134/225575325-7649298c-a7b5-48bb-a206-583e44dd40b2.png" width="200"> <img src="https://user-images.githubusercontent.com/81863134/225575386-5a88c02b-4334-419c-878a-381616160440.png" width="200"> <img src="https://user-images.githubusercontent.com/81863134/225575422-658a9778-59e1-4988-8c19-93196ab74c93.png" width="200"> <img src="https://user-images.githubusercontent.com/81863134/225575487-1a9317d3-bf91-4b9f-9065-775cf2722828.png" width="200"> <img src="https://user-images.githubusercontent.com/81863134/225575544-c51dfc94-b798-400a-9bb0-b4cc30c5d3c8.png" width="200"> <img src="https://user-images.githubusercontent.com/81863134/225575615-91561ce3-3f69-497e-9fdf-31dfb0b99aa5.png" width="200">
